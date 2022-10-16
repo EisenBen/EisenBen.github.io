@@ -184,22 +184,22 @@ p {
 }
 @media only screen and (max-width: 600px) {
   /* For mobile: */
-	#speech {font-size: 160%; top: 18%; width: 98%;background: rgb(0 0 0 / 82%);}
-	#content {font-size: 140%}
-	.menu {height: 15%; opacity: 0.85; background: rgba(0, 0, 0, 0.85);}
-	#list {padding: 5% 6%; margin: 0.7%;}
-	.active {padding: 3.5% 4%;margin: 1.5% 3% 0px 0px;}
+	#speech {font-size: 130%; top: 39%; width: 67%;background: rgba(0, 0, 0, 0.6)}
+	#content {font-size: 90%; padding: 10px;}
+	.menu {height: 16%; opacity: 0.85; background: rgba(0, 0, 0, 0.85);}
+	#list {padding: 5% 4%; margin: 0.5%;}
+	.active {padding: 3.5% 4%;margin: 1.5% 3% 0px;}
 	#timedisplay {margin-left: 500px;}
-	#PageChoose {bottom: 31%}
+	#PageChoose {bottom: 34%}
 }
 @media only screen and (max-height: 634px) {
   /* For mobile: */
-	#speech {font-size: 120%; top: 13%; left: 1%;background: rgba(0, 0, 0, 0.6);}
+	#speech {font-size: 105%; width: 40%; top: 14.5%; right: 16%;background: rgba(0, 0, 0, 0.6);}
 	#content {font-size: 80%; padding: 10px;}
-	.menu {height: 17%; opacity: 0.85; background: rgba(0, 0, 0, 0.6);}
-	#list {padding: 2% 6%; margin: 0.7%; background: rgba(0, 0, 0, 1)}
-	.active {padding: 1% 4%;margin: 1.5% 3% 0px 0px; background: rgba(0, 0, 0, 1)}
-	#timedisplay {margin-left: 0px;}
+	.menu {height: 13%; opacity: 0.85; background: rgba(0, 0, 0, 0.6);}
+	#list {padding: 1% 2%; margin: 0.6%; background: rgb(0 0 0 / 68%)}
+	.active {padding: 0.5% 2%; margin: 1% 0% 0px 0px; background: rgba(0, 0, 0, 1)}
+	#timedisplay {margin-left: 0px; font-size: 260%;}
 	#PageChoose {bottom: 39%;}
 	#myBtn {margin: 0px;}
 }
